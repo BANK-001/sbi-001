@@ -1,8 +1,10 @@
-a=20
+1a=20
 print(a)
-for i in range(20):
+for i in range(20)
     if i%2==0:
         print(i)
     else:
         print(i)
         
+    
+
